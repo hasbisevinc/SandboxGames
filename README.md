@@ -23,7 +23,7 @@ Every dose counts — stay safe, stay fast, and bring hope to those in need.
 This project connects a **physical robot** to a **mobile application** that controls its **facial expressions** and **voice responses**.  
 The robot listens to user commands, answers questions, and reacts with dynamic face animations — bringing personality to human-robot interaction.
 
-[![Watch the demo](https://img.youtube.com/vi/SeDz57lT2QU/hqdefault.jpg)](https://www.youtube.com/watch?v=SeDz57lT2QU)
+[![Watch the demo]()](https://www.youtube.com/watch?v=SeDz57lT2QU)
 
 ### 🧠 Features
 - Real-time facial expression control  
